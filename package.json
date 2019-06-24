@@ -1,0 +1,29 @@
+{
+  "name": "node-xmind",
+  "version": "0.0.0",
+  "description": "Simple JavaScript API for Xmind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/node-xmind.git"
+  },
+  "keywords": [
+    "xmind"
+  ],
+  "author": "Lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/node-xmind/issues"
+  },
+  "homepage": "https://github.com/song940/node-xmind#readme",
+  "dependencies": {
+    "jszip": "^3.2.1"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
+}
